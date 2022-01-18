@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mH0r/VAqISp1A94DAKHh3kyvapIr55kV5FEzF7f6b/2cigEyl8N0C7zHJ2ayngKgZp2vjmXVS7/mzcCjIi8mxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nishi\\source\\repos\\RaylibExun\\RaylibExun\\RaylibExun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nishi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\nishi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
